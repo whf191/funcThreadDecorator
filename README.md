@@ -6,7 +6,3 @@ funcThreadDecoratorNotResult: 函数线程装饰器没有返回值
 
 funcThreadDecoratorResult: 函数线程装饰器有返回值
 
-#使用方法 \r\n
-@funcThreadDecoratorNotResult \r\n
-def abc():\r\n
-    pass
